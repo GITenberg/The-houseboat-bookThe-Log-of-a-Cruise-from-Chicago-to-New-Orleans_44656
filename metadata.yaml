@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '42860'
     url: http://www.gutenberg.org/2009/agents/42860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44656#The-houseboat-bookThe-Log-of-a-Cruise-from-Chicago-to-New-Orleans
 gutenberg_issued: '2014-01-13'
 gutenberg_type: Text
 identifiers:
