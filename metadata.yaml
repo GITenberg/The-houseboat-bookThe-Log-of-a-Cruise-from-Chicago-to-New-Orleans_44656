@@ -1,0 +1,30 @@
+_repo: The-houseboat-bookThe-Log-of-a-Cruise-from-Chicago-to-New-Orleans_44656
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44656-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waugh, W. F. (William Francis)
+    aliases:
+    - Waugh, William Francis
+    - Waugh, William F. (William Francis)
+    birthdate: 1849
+    gutenberg_agent_id: '42860'
+    url: http://www.gutenberg.org/2009/agents/42860
+description: ''
+gutenberg_issued: '2014-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44656'
+  lccn: 04032328
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Illinois -- Description and travel'
+- !lcsh 'Mississippi River -- Description and travel'
+- !lcc 'F350.5'
+title: 'The Houseboat Book: The Log of a Cruise from Chicago to New Orleans'
+url: http://www.gutenberg.org/ebooks/44656
